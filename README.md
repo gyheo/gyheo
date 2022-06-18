@@ -4,7 +4,7 @@ I'm GeonYeong Heo. I'm working as a software engineer.
 
 - 🔭 I’m currently working on BackEnd (Software as a Service)
 
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning about Spring
 
 - 💬 How to reache me: gyheo@icloud.com
 
