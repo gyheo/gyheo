@@ -8,7 +8,7 @@ I'm GeonYeong Heo. I'm working as a software engineer.
 
 - 🐳 Also, I'm interested in DevOps
 
-- 💬 How to reache me: gyheo@icloud.com
+- 💬 How to reach me: gyheo@icloud.com
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"><br>
 
